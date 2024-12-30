@@ -1,0 +1,1 @@
+here we would upload thepdf and build a medica chat bot
